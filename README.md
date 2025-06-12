@@ -27,3 +27,5 @@ Este projeto está licenciado sob a Licença GNU - veja o arquivo LICENSE para m
 ## Agradecimentos
 
 * Agradecimentos especiais à comunidade de código aberto por suas contribuições e suporte.
+
+desenvolvido por Kauan Gabriel
